@@ -12,6 +12,8 @@
 
 </div>
 
+> [中文说明](README.zh.md)
+
 ---
 
 ## 📌 Featured Projects
@@ -97,7 +99,5 @@
   <br/>
   <sub>⭐ If you find my projects useful, consider giving them a star!</sub>
 </div>
-
-> [中文说明](README.zh.md)
 
 ---
