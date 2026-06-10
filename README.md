@@ -4,9 +4,6 @@
 
 **AI Application Developer · LLM & Computer Vision · Open-Source Creator**
 
-
-> [🇨🇳 中文说明](README.zh.md)
-
 [![GitHub followers](https://img.shields.io/github/followers/huajielong?style=social&label=Follow)](https://github.com/huajielong)
 [![GitHub stars](https://img.shields.io/github/stars/huajielong?style=social&label=Stars)](https://github.com/huajielong)
 [![Profile views](https://komarev.com/ghpvc/?username=huajielong&color=0891b2&style=flat&label=Profile+Views)](https://github.com/huajielong)
@@ -92,3 +89,5 @@
 *Open to interesting conversations, collaborations, and opportunities.*
 
 </div>
+
+> [中文说明](README.zh.md)
