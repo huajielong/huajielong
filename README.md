@@ -90,4 +90,14 @@
 
 </div>
 
+---
+
+<div align="center">
+  <sub>✨ <b>Building the future, one commit at a time.</b> ✨</sub>
+  <br/>
+  <sub>⭐ If you find my projects useful, consider giving them a star!</sub>
+</div>
+
 > [中文说明](README.zh.md)
+
+---

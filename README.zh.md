@@ -1,13 +1,3 @@
-<div align="center">
-  <sub>✨ <b>Building the future, one commit at a time.</b> ✨</sub>
-  <br/>
-  <sub>⭐ If you find my projects useful, consider giving them a star!</sub>
-</div>
-
----
-
----
-
 # 👋 你好，我是龙华杰 (Huajie Long)
 
 **AI应用开发者 · LLM & 计算机视觉 · 开源爱好者**
